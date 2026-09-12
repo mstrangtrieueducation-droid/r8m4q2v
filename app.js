@@ -311,7 +311,7 @@ const sections = [
   {
     "letter": "F",
     "title": "Look and write sentences.",
-    "note": "Quan sát đúng các số 1-4 đã in trong hình rồi viết câu với There is/There are.",
+    "note": "Quan sát đúng các số 1-4 đã in trong hình rồi viết câu với There is/There are. Use the words or phrases in the box.",
     "points": 4,
     "sectionImage": "assets/extracted/page2-img1-1236x480.png",
     "questions": [
@@ -357,6 +357,13 @@ const sections = [
         "explanation": "Vị trí số 4 có một con nhện. Có thể viết There is a spider hoặc There is one spider.",
         "image": ""
       }
+    ],
+    "wordBank": [
+      "birds",
+      "dog",
+      "frogs",
+      "spider",
+      "lizard"
     ]
   },
   {
@@ -493,7 +500,7 @@ const sections = [
       {
         "id": "I3",
         "type": "input",
-        "prompt": "3. esashell",
+        "prompt": "3. e s a l s h l e",
         "answers": [
           "seashell"
         ],
